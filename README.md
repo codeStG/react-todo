@@ -58,4 +58,3 @@ https://www.kirupa.com/react/simple_todo_app_react.htm#tutorialInformation
 ![todo1](assets/blue-todo.jpg)
 
 
-
